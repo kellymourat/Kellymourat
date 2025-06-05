@@ -1,57 +1,65 @@
-<p align="center">
+
+ <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1500&color=800080&center=true&vCenter=true&width=500&lines=Hello,+welcome!%F0%9F%91%8B%F0%9F%8C%BB" alt="Kelly Moura - Front-End Developer" />
 </p>
 
 ---
 
- ## 💡 Sobre mim
+## ✨ Sobre Mim
 
- Desenvolvedora Front-End, apaixonada por transformar ideias em interfaces funcionais, bonitas e acessíveis. Estou construindo meu caminho com HTML, CSS, JavaScript e frameworks modernos.
+Comprometida em transformar ideias em experiências digitais impactantes, focando em qualidade, performance e usabilidade.
 
- - Objetivo atual: Desenvolvedora Front-End Júnior  
- - Estudando: HTML5, CSS3, JavaScript, React e responsividade  
- - Interesse futuro: Back-End com Python
+**Objetivo:** Desenvolver interfaces web inovadoras como Front-End, combinando criatividade, tecnologia e experiências de usuário memoráveis.
 
- ---
+---
 
- ## 🧰 Tecnologias utilizadas
+## Tecnologias 
 
- <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" alt="Python" />
- </p>
+ <p>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /></a>
 
- ---
- 
- ## 📊 Estatísticas GitHub
- 
-<div align="center" >
+   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" /></a>
+
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+
+   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /></a>
+
+   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" /></a>
+
+   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /></a>
+
+   <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div >
 
 <a href="https://github.com/kellymourat">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kellymourat&layout=compact&langs_count=7&theme=dracula"/></a> 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kellymourat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kellymourat&layout=compact&langs_count=7&theme=tokyonight&bg_color=000000&hide_border=true&title_color=ffffff&text_color=cccccc"/></a>
+
+<a href="https://github.com/kellymourat">
+  <img loading="lazy" height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Kellymourat&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true&title_color=ffffff&icon_color=8a2be2&text_color=cccccc&count_private=true"/>
+</a>
+
 </div>
 
+---
 
- ---
+## ✨ “Cada linha de código é um passo mais perto do seu sonho.” — Anônimo
 
- ## ✨ Frases
-
-  “Cada linha de código é um passo mais perto do seu sonho.” — Anônimo
- 
-  “Que eu seja todo dia como um girassol, de costas pro escuro e de frente pra luz.” — Cecília Meireles
-
- ---
-
- 💜 Muito obrigada por visitar meu perfil!
- 
- Fico muito feliz com a sua presença aqui. Cada visita, cada olhar, é um incentivo a mais nessa jornada que estou construindo com     muito carinho e dedicação. 💻✨
-
+  💜 Obrigada por visitar meu perfil!
 
 
 
