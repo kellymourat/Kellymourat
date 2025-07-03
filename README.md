@@ -1,10 +1,3 @@
-
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1500&color=800080&center=true&vCenter=true&width=500&lines=Hello,+welcome!%F0%9F%91%8B%F0%9F%8C%BB" alt="Kelly Moura - Front-End Developer" />
-</p>
-
----
-
 ## ✨ Sobre Mim
 
 Comprometida em transformar ideias em experiências digitais impactantes, focando em qualidade, performance e usabilidade.
