@@ -40,17 +40,11 @@ Comprometida em transformar ideias em experiências digitais impactantes, focand
 <a href="https://github.com/kellymourat">
   <img loading="lazy" height="180em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kellymourat&layout=compact&langs_count=7&theme=tokyonight&bg_color=000000&hide_border=true&title_color=ffffff&text_color=cccccc"/></a>
-    
-<a href="https://github.com/kellymourat">
-  <img loading="lazy" height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Kellymourat&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true&title_color=ffffff&icon_color=8a2be2&text_color=cccccc&count_private=true"/></a>
-</div>
 
 ---
 
 ## “Cada linha de código é um passo mais perto do seu sonho.” 
 
-  💜 Obrigada por visitar meu perfil!
 
 
 
